@@ -1,6 +1,6 @@
 {
   "name": "@leemcdonald-au/simplefork",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple method for handling child_process.fork objects.",
   "main": "src/SimpleFork.js",
   "scripts": {

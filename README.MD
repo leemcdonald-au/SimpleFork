@@ -7,7 +7,7 @@ Nomral NPM Installation.
 
 ### Usage
 ```javascript
-import { SimpleFork } from '@leemcdonald-au/simplefork'
+import SimpleFork from '@leemcdonald-au/simplefork'
 
 const fork = new SimpleFork(`/path/to/my/script.js`, ['-key', '/etc/letsencrypt/key.pem', '-cert', '/etc/letsencrypt/cert.pem'])
 
